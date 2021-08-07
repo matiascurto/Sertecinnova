@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Matias Curto",
+    "occupation": "developer",
+    "description": "An Argentine programmer in search of great opportunities, below I comment what languages I use and my jobs",
+    "image": "perfil.png",
+    "bio": "As mentioned, I am a web programmer, looking to progress, I work in a company where I do marketing and manage its online store.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "matiascurto15@gmail.com",
+    "phone": "+54 9 341 362 3597",
+    "address": {
+      "street": "Rosario, Argentina",
+      "city": "Rosario",
+      "state": "Santa Fe",
+      "zip": "2000"
+    },
+    "website": "https://www.sertecinnova.com",
+    "resumedownload": "https://drive.google.com/file/d/1Vi2IIC_RXfRXTGDla6Ubfe_VJacUFW3l/view?usp=sharing",
+
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/matiascurto/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/sertecinnova",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/matiascurto",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "languages and systems I use",
+    "education": [
+      {
+        "school": "Software development",
+        "degree": "Tertiary software development",
+        "graduated": "February 2020 - December 2022",
+        "description": "I study software development in the upper level of the school nº 49 J.J. De Uuquiza in Rosario, Santa Fe, Argentina."
+      }
+    ],
+    "work": [
+      {
+        "company": "Tecnica Fisherton",
+        "title": "Online store and google ads",
+        "years": "August 2020 - Present",
+        "description": "What I do at Fisherton Technique is to manage the advertising campaigns and the design of your online store."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5 100%",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3 100%",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs 60%",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript 60%",
+        "level": "60%"
+      },      {
+        "name": "Solidity 50%",
+        "level": "50%"
+      },
+      {
+        "name": "WORDPRESS 100%",
+        "level": "100%"
+      },
+      {
+        "name": "ELEMENTOR 100%",
+        "level": "100%"
+      },
+      {
+        "name": "GOOGLE ADS 100%",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "PolyEarn",
+        "category": "",
+        "image": "polyearn.png",
+        "url": "https://www.polyearn.com"
+      },
+      {
+        "title": "Tecnica Fisherton",
+        "category": "",
+        "image": "tecnica.png",
+        "url": "https://www.tecnicafisherton.com"
+      },
+      {
+        "title": "Sniff Pet Shop",
+        "category": "",
+        "image": "sniff.png",
+        "url": "https://www.sniff.com.ar"
+      },
+
+      {
+        "title": "Coconut Almacen Saludable",
+        "category": "",
+        "image": "coconut.png",
+        "url": "https://www.coconutalmacensaludable.com.ar"
+      },
+      {
+        "title": "Morgado Psicologia",
+        "category": "",
+        "image": "morgado.png",
+        "url": "https://www.morgadopsicologia.es"
+      },
+      {
+        "title": "AvOne",
+        "category": "",
+        "image": "aveone.png",
+        "url": "http://www.avone.lat/"
+      },
+      {
+        "title": "Diario Online",
+        "category": "",
+        "image": "diarioonline.png",
+        "url": "https://www.diarioonline.com.ar"
+      },
+      {
+        "title": "Organizacion Gese",
+        "category": "",
+        "image": "organizaciongese.png",
+        "url": "https://www.organizaciongese.com"
+      },
+      {
+        "title": "Repuestos 360",
+        "category": "",
+        "image": "repuestos.png",
+        "url": "https://repuestos360.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "In this place we don't waste too much time looking back. Walk into the future, opening new doors and trying new things, be curious ... because our curiosity always leads us down new paths.",
+        "user": "Walt Disney"
+      }
+    ]
+  }
+}
