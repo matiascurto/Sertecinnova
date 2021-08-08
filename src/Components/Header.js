@@ -41,7 +41,7 @@ class Header extends Component {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">Welcome to Sertec Innova.</h1>
-                  <h3>I am Matias Curto a web developer. I am CEO of Sertec Innova, below I comment what languages I use and my jobs.</h3>
+                  <h3>I am Matias Curto a web developer. CEO of Sertec Innova, below I comment what languages I use and my jobs.</h3>
                   <hr />
                   <ul className="social">
                      {networks}
