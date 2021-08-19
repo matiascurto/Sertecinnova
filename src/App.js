@@ -9,6 +9,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import Services from './Components/Services';
 
 class App extends Component {
 
@@ -47,6 +48,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
+        <Services data={this.state.resumeData.services}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>

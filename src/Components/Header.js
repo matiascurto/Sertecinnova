@@ -26,14 +26,13 @@ class Header extends Component {
           </a>
                
                <img className="logo-header" src="/images/logo.png" alt="" />
-               {/* <div className="title-logo"><a href="/" style={{ color: ' white	' }}>SERTEC INNOVA</a></div> */}
 
                <ul id="nav" className="nav">
                   <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
+                  <li><a className="smoothscroll" href="#services">Services</a></li>
                   <li><a className="smoothscroll" href="#about">About</a></li>
                   <li><a className="smoothscroll" href="#resume">Resume</a></li>
                   <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-                  {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
                </ul>
 
             </nav>
@@ -41,7 +40,7 @@ class Header extends Component {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">Welcome to Sertec Innova.</h1>
-                  <h3>I am Matias Curto a web developer. CEO of Sertec Innova, below I comment what languages I use and my jobs.</h3>
+                  <h3>I'm Matias Curto, a web developer. CEO of Sertec Innova, below I show the services and my work.</h3>
                   <hr />
                   <ul className="social">
                      {networks}
@@ -50,7 +49,7 @@ class Header extends Component {
             </div>
 
             <p className="scrolldown">
-               <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+               <a className="smoothscroll" href="#services"><i className="icon-down-circle"></i></a>
             </p>
 
          </header>
